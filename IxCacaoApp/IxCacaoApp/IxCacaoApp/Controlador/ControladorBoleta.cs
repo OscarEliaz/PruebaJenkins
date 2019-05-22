@@ -280,9 +280,5 @@ namespace IxCacaoApp.Controlador
         {
             return b;
         }
-        int _suma;
-        public hacersuma(){
-            _suma = 3+2;
-        }
     }
 }
