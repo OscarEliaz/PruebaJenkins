@@ -280,5 +280,6 @@ namespace IxCacaoApp.Controlador
         {
             return b;
         }
+        int _algo;
     }
 }
