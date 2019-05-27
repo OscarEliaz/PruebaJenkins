@@ -16,7 +16,7 @@ namespace IxCacaoApp.Controlador
         SqlDataReader lector;
         static string nombreServidor = "DESKTOP-5UDNSII\\MSSQLSERVER02";
         static string nombreBD = "IXcacao";
-        static string Username = "AdminCacaoApp";
+        static string Username = "AdminCacaoApp";kjhkjh
         static string contrasena = "Cacao2018app";
 
         string cadenaConexion = "Data Source=" + nombreServidor + ";User ID=" +
