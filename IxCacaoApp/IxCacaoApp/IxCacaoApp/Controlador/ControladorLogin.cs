@@ -14,9 +14,9 @@ namespace IxCacaoApp.Controlador
         SqlConnection conexion;
         SqlCommand comando;
         SqlDataReader lector;
-        static string nombreServidor = "DESKTOP-5UDNSII\\MSSQLSERVER02";
+        static string nombreServidor = "DESKTOP-5UDNSII\\MSSQLSERVER02/dgtrgr";
         static string nombreBD = "IXcacao";
-        static string Username = "AdminCacaoApp";
+        static string Username = "AdminCacaoApp/ghhdhdgd";ceace
         static string contrasena = "Cacao2018app";
 
         string cadenaConexion = "Data Source=" + nombreServidor + ";User ID=" +
