@@ -280,8 +280,5 @@ namespace IxCacaoApp.Controlador
         {
             return b;
         }
-        int _cambioalgo};jj
-        kkk{jklsdfjlsdfkldfh,kgjkj
-            sd<sd
     }
 }
