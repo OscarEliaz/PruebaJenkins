@@ -315,8 +315,9 @@ namespace IxCacaoApp.Controlador
         }
         public List<Producto> obtenerDatosDeProductos()
         {
-            return listaProductos;
+            return listaProductos/ggfg
         }
-        uidjkxdfkgjj();
+        uidjkxdfkgjj()
+            efdfegfb
     }
 }
