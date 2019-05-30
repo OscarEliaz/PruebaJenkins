@@ -36,7 +36,6 @@ namespace IxCacaoApp.Modelo
             sb.AppendFormat("Nombre Usuario         : {0} \n", _nombreUsuario);
             sb.AppendFormat("Contraseña          : {0} \n", _contraseña);
             return sb.ToString();
-        }jñio
+        }
     }
 }
-kgfhjg
