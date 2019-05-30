@@ -8,7 +8,7 @@ namespace IxCacaoApp.Modelo
 {
     class Login
     {
-        private int _idUsuario/gfg;gx
+        private int _idUsuario;
         private string _nombreUsuario;
         private string _contraseña;
 
@@ -36,6 +36,6 @@ namespace IxCacaoApp.Modelo
             sb.AppendFormat("Nombre Usuario         : {0} \n", _nombreUsuario);
             sb.AppendFormat("Contraseña          : {0} \n", _contraseña);
             return sb.ToString();
-        }
+        }jñio
     }
 }
