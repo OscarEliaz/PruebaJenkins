@@ -8,7 +8,7 @@ namespace IxCacaoApp.Modelo
 {
     class Login
     {
-        private int _idUsuario;
+        private int _idUsuario/gfg;gx
         private string _nombreUsuario;
         private string _contraseña;
 
