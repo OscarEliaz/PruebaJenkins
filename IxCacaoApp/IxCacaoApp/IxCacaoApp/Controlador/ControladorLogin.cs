@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IxCacaoApp.Controlador/sdfzfdfzxzx;
+namespace IxCacaoApp.Controlador/sdfzfdfzxzdfzszx;
 {
     class ControladorLogin
     {
