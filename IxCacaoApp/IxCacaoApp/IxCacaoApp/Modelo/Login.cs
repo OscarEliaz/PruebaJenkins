@@ -11,6 +11,7 @@ namespace IxCacaoApp.Modelo
         private int _idUsuario;
         private string _nombreUsuario;
         private string _contraseña;
+        private int _algo;
 
         Login()
         {
